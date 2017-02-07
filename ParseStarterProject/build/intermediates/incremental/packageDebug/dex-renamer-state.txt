@@ -1,0 +1,7 @@
+#Fri Jan 06 15:02:47 BRST 2017
+base.0=C\:\\Users\\danie\\Desktop\\SocialNetTest\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ed5bb9623fd9f95f9dfdf1603a669731de58af73
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\danie\\Desktop\\SocialNetTest\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4a2816697b3376c2d75c5a3099ab63a3f09ade9b\\classes.dex
+base.1=C\:\\Users\\danie\\Desktop\\SocialNetTest\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4a2816697b3376c2d75c5a3099ab63a3f09ade9b
+file.0=C\:\\Users\\danie\\Desktop\\SocialNetTest\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ed5bb9623fd9f95f9dfdf1603a669731de58af73\\classes.dex
